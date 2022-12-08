@@ -14,9 +14,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 
 ### Testing Documentation
-- [Checklists](https://github.com/Mimiduza/cheklists)   
-- [Test-Suites and Test-Cases](https://github.com/Mimiduza/test-cases)   
-- [Bug-Reports](https://github.com/Mimiduza/bug-reports)   
+- [Complete Projects](https://github.com/Mimiduza/projects)
 - [SQL Queries](https://github.com/Mimiduza/SQL_queries)   
 - [Postman Collections](https://github.com/Mimiduza/postman_collections)
 
